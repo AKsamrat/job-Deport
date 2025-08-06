@@ -27,7 +27,7 @@ A modern, responsive job portal web application built with React, TypeScript, an
 - **Styling**: Tailwind CSS / CSS Modules
 - **State Management**: React Context API / Redux Toolkit
 - **Routing**: React Router DOM
-- **HTTP Client**: Axios
+- **State Management**: ContextApi
 - **Form Handling**: React Hook Form
 - **Icons**: React Icons / Lucide React
 - **Linting**: ESLint + TypeScript ESLint
