@@ -58,7 +58,12 @@ Make sure you have the following installed:
 
 3. **Set up environment variables**
    ```bash
-   cp .env.example .env
+   VITE_APIKEY= AIzaSyA9q-OT2znWc9KXNcZDOakaTzSr0Qfsxbg
+VITE_AUTHDOMAIN= expert-hunter-client.firebaseapp.com
+VITE_PROJECTID= expert-hunter-client
+VITE_STORAGEBUCKET= expert-hunter-client.appspot.com
+VITE_MESSAGINGSENDERID= 983865846984
+VITE_APPID= 1:983865846984:web:3bb3caf9c1da6bf94849fd
    ```
    
    Update the `.env` file with your configuration:
