@@ -1,0 +1,82 @@
+[
+  {
+    "id":"1",
+    "jobTitle": "Frontend Developer",
+    "companyName": "TechWave",
+    "salary": "$70,000 - $85,000",
+    "jobType": "Full-time",
+    "description": "We are seeking a talented Frontend Developer to join our growing team. In this role, you will be responsible for building responsive and high-performance web interfaces using React.js and modern JavaScript frameworks. You will collaborate closely with designers and backend developers to implement intuitive user experiences. The ideal candidate is passionate about UI/UX, has a strong understanding of web development best practices, and is comfortable working in a fast-paced environment. Knowledge of version control systems like Git and experience with Tailwind CSS is a plus.",
+    "requirement": "2+ years experience with React, JavaScript, and CSS.",
+    "location": "New York, NY"
+  },
+  {
+    "id":"2",
+    "jobTitle": "Backend Developer",
+    "companyName": "DataNest",
+    "salary": "$80,000 - $95,000",
+    "jobType": "Full-time",
+    "description": "Join DataNest as a Backend Developer to help build and maintain robust APIs and services for our data-driven products. You will write clean, scalable code using Node.js and work with databases such as MongoDB and PostgreSQL. Your work will directly impact our applications used by thousands of users. You will also participate in code reviews, architecture discussions, and collaborate with front-end teams to integrate services. We value candidates who are self-motivated, curious, and excited about solving complex problems.",
+    "requirement": "3+ years with Node.js, Express, and MongoDB or PostgreSQL.",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id":"3",
+    "jobTitle": "UI/UX Designer",
+    "companyName": "Designify",
+    "salary": "$60,000 - $75,000",
+    "jobType": "Contract",
+    "description": "Designify is looking for a creative UI/UX Designer to craft beautiful and functional digital interfaces. You’ll work with product managers and developers to translate business requirements into engaging user experiences. Responsibilities include wireframing, prototyping, and designing layouts for both mobile and web platforms. An ideal candidate will have a strong portfolio showcasing interaction design, an eye for detail, and proficiency in tools like Figma, Adobe XD, and Sketch. Remote work flexibility and a collaborative mindset are key to success in this role.",
+    "requirement": "Strong portfolio, proficiency in Figma and Adobe XD.",
+    "location": "Remote"
+  },
+  {
+    "id":"4",
+    "jobTitle": "DevOps Engineer",
+    "companyName": "CloudSprint",
+    "salary": "$90,000 - $110,000",
+    "jobType": "Full-time",
+    "description": "We are hiring a DevOps Engineer to manage our cloud infrastructure and CI/CD pipelines. As part of our engineering team, you will be responsible for deploying and monitoring applications, ensuring system reliability, and automating manual processes using tools like Docker, Jenkins, and Kubernetes. You will also maintain security standards and troubleshoot production issues. Candidates should have experience working with AWS services and be comfortable with Linux systems. The role requires strong communication skills and the ability to work independently.",
+    "requirement": "Experience with AWS, Docker, Jenkins, and Kubernetes.",
+    "location": "Austin, TX"
+  },
+  {
+    "id":"5",
+    "jobTitle": "Full Stack Developer",
+    "companyName": "CodeCraft",
+    "salary": "$85,000 - $105,000",
+    "jobType": "Full-time",
+    "description": "CodeCraft is looking for a skilled Full Stack Developer to work on end-to-end features of our web applications. You will build robust backend services and beautiful frontend interfaces, primarily using the MERN stack (MongoDB, Express, React, Node). You’ll take part in product planning, write clean and maintainable code, and deploy applications on cloud platforms. Ideal candidates are well-versed in RESTful APIs, version control systems like Git, and have a solid understanding of Agile development practices. Prior experience in startups is a plus.",
+    "requirement": "Expertise in MERN stack or similar technologies.",
+    "location": "Chicago, IL"
+  },
+  {
+    "id":"6",
+    "jobTitle": "Mobile App Developer",
+    "companyName": "AppSphere",
+    "salary": "$75,000 - $95,000",
+    "jobType": "Remote",
+    "description": "We are seeking a Mobile App Developer to create seamless, user-friendly mobile experiences using Flutter. You’ll work closely with designers and backend developers to build applications for both Android and iOS. You should be experienced in Dart, understand mobile design patterns, and have a keen eye for performance and responsiveness. The ideal candidate is familiar with publishing apps to Google Play and the App Store, and enjoys staying updated with new mobile technologies. Remote applicants are encouraged to apply.",
+    "requirement": "Proficiency in Dart and Flutter, portfolio of past projects.",
+    "location": "Remote"
+  },
+  {
+    "id":"7",
+    "jobTitle": "QA Engineer",
+    "companyName": "SoftGuard",
+    "salary": "$65,000 - $80,000",
+    "jobType": "Full-time",
+    "description": "SoftGuard is hiring a QA Engineer to ensure our applications are bug-free and user-ready. You’ll design and execute test plans, report bugs, and work closely with developers to resolve issues. Experience with both manual and automated testing is essential. Familiarity with tools like Selenium, JIRA, and Postman will help you thrive in this role. You’ll help improve our release cycles and maintain high product standards. The role is perfect for detail-oriented professionals with a passion for quality software.",
+    "requirement": "Experience with Selenium, JIRA, and writing test cases.",
+    "location": "Seattle, WA"
+  },
+  {
+    "id":"8",
+    "jobTitle": "Product Manager",
+    "companyName": "InnovateX",
+    "salary": "$100,000 - $130,000",
+    "jobType": "Full-time",
+    "description": "As a Product Manager at InnovateX, you will guide cross-functional teams to deliver high-impact features. Your responsibilities include defining product roadmaps, gathering user feedback, and working closely with design, engineering, and marketing. You'll need strong analytical skills, a user-first mindset, and the ability to prioritize tasks effectively. Prior experience with SaaS platforms and Agile methodologies is preferred. We’re looking for someone who is not only strategic but also comfortable rolling up their sleeves when needed.",
+    "requirement": "3+ years of experience in product management or related roles.",
+    "location": "Boston, MA"
+  }
+]
