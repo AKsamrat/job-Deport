@@ -58,19 +58,15 @@ Make sure you have the following installed:
 
 3. **Set up environment variables**
    ```bash
-   VITE_APIKEY= AIzaSyA9q-OT2znWc9KXNcZDOakaTzSr0Qfsxbg
-VITE_AUTHDOMAIN= expert-hunter-client.firebaseapp.com
-VITE_PROJECTID= expert-hunter-client
-VITE_STORAGEBUCKET= expert-hunter-client.appspot.com
-VITE_MESSAGINGSENDERID= 983865846984
-VITE_APPID= 1:983865846984:web:3bb3caf9c1da6bf94849fd
+   VITE_APIKEY :
+   VITE_AUTHDOMAIN :
+   VITE_PROJECTID:
+   VITE_STORAGEBUCKET :
+   VITE_MESSAGINGSENDERID :
+   VITE_APPID: 
    ```
    
-   Update the `.env` file with your configuration:
-   ```env
-   VITE_API_BASE_URL=http://localhost:3000/api
-   VITE_APP_TITLE=Job Depot
-   ```
+   
 
 4. **Start the development server**
    ```bash
