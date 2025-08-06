@@ -65,8 +65,7 @@ Make sure you have the following installed:
    VITE_MESSAGINGSENDERID :
    VITE_APPID: 
    ```
-   
-   
+     
 
 4. **Start the development server**
    ```bash
@@ -186,7 +185,7 @@ Contributions are welcome! Please follow these steps:
 **AK Samrat**
 - GitHub: [@AKsamrat](https://github.com/AKsamrat)
 - LinkedIn: [Connect with me](https://linkedin.com/in/anuwarul-kabir)
-- Email: aksamrat@example.com
+- Email: samratuap52@gmail.com
 
 ## 🙏 Acknowledgments
 
