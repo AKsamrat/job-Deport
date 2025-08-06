@@ -55,7 +55,7 @@ const Navbar = () => {
         <>
           <li>
             <NavLink
-              to="/blogs"
+              to="/blog"
               className={({ isActive }) =>
                 isActive
                   ? 'text-[#00C2CB] bg-[#34d5dd18] px-2 py-3 rounded-lg font-semibold'
