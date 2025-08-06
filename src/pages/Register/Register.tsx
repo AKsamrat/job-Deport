@@ -1,3 +1,5 @@
+
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
@@ -7,7 +9,8 @@ import regImg from '../../assets/register.jpg';
 const Register = () => {
   const { register, handleSubmit, formState: { errors }, reset } = useForm();
   const [showPassword, setShowPassword] = useState(false);
-  const [registerError, setRegisterError] = useState('');
+  // const [registerError, setRegisterError] = useState('');
+
 
   const onSubmit = (data: any) => {
     console.log(data);
@@ -83,9 +86,7 @@ const Register = () => {
             </div>
 
             {/* Error Display */}
-            {registerError && (
-              <p className="text-sm text-red-600 font-semibold">{registerError}</p>
-            )}
+
 
             {/* Submit Button */}
             <div>

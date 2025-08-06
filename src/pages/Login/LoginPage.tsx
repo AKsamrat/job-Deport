@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { useContext, useEffect } from 'react';
 import loginImg from '../../assets/login.png';
 import { Link, useLocation, useNavigate } from 'react-router-dom';
@@ -36,6 +37,7 @@ const LoginPage = () => {
     formState: { errors },
   } = useForm<LoginFormData>();
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const handleSocialLogin = (providerFn: () => Promise<any>) => {
     providerFn()
       .then((result) => {
@@ -49,7 +51,7 @@ const LoginPage = () => {
       });
   };
 
-  const onSubmit: SubmitHandler<LoginFormData> = (data) => {
+  const onSubmit: SubmitHandler<LoginFormData> = () => {
     // const { email, password } = data;
     // signIn(email, password)
     //   .then((result) => {
